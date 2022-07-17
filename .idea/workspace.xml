@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c277dbbb-c2e1-4f20-82cd-cf7a4886f3af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/MeyerBriggs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/SevenSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/Shopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/ShoppingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/StudentGrade2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/StudentGrade2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeven/StudentGradeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="c277dbbb-c2e1-4f20-82cd-cf7a4886f3af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +24,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/Assignment/src"
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/Assignment/src",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658051042030</updated>
-      <workItem from="1658051043634" duration="729000" />
+      <workItem from="1658051043634" duration="1087000" />
     </task>
     <servers />
   </component>
